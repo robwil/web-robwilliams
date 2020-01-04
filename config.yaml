@@ -1,4 +1,4 @@
-baseURL: http://robwilliams.me
+baseURL: https://robwilliams.firebaseapp.com
 disablePathToLower: true
 languageCode: en-us
 title: Rob Williams

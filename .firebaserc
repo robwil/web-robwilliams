@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "robwil-io"
+  },
+  "targets": {
+    "robwil-io": {
+      "hosting": {
+        "robwilliams": [
+          "robwilliams"
+        ]
+      }
+    }
+  }
+}
