@@ -21,7 +21,7 @@ If you are interested, the full source code is available [here](/upload/android-
 <div id='gallery-2' class='gallery galleryid-347 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203654-2/'><img width="84" height="150" src="http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-2036541.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-350" /></a>
+      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203654-2/'>![image](http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-2036541.png)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-2-350'>
@@ -31,7 +31,7 @@ If you are interested, the full source code is available [here](/upload/android-
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203734/'><img width="84" height="150" src="http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-203734.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-351" /></a>
+      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203734/'>![image](http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-203734.png)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-2-351'>
@@ -41,7 +41,7 @@ If you are interested, the full source code is available [here](/upload/android-
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203818/'><img width="84" height="150" src="http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-203818.png" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-349" /></a>
+      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203818/'>![image](http://robwilliams.me/wp-content/uploads/2015/07/device-2015-07-05-203818.png)
     </dt>
     
     <dd class='wp-caption-text gallery-caption' id='gallery-2-349'>

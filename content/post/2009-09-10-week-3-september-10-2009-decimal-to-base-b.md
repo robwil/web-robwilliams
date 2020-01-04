@@ -14,7 +14,7 @@ This week I was extraordinarily busy with random things, and so I didn’t have 
 
 **Flex Results:**
 
-**<img class="alignnone" title="Convert Decimal to Base Screenshot" src="/images/screens/ConvertDecimal.jpg" alt="" width="489" height="170" />**
+**![Convert Decimal to Base Screenshot](/images/screens/ConvertDecimal.jpg)**
 
 You can download the source code [here](/weekly/Week3_Flex_DecimalToBase.zip "Week 3 Flex Source Code").
 

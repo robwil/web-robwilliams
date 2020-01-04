@@ -14,11 +14,11 @@ I decided it was time to solve the problem, and that’s when the Hoboken Grace 
 
 The opening screen looks like this, and all the user has to do is browse to the WAV file on their computer. They can optionally also choose a JPG image to use as album art in the MP3 (this is the picture that shows up for the podcast in iTunes), but if they don’t, the default will be used, which in this case is the logo for Hoboken Grace.
 
-<img class="alignnone" title="Convert Audio Step" src="/images/screens/grace/convert_audio.jpg" alt="Convert Audio Step" width="400" height="293" /> 
+![Convert Audio Step](/images/screens/grace/convert_audio.jpg) 
 
 After clicking the Continue button, the conversion process commences. Our usual podcasts are around 45 minutes to an hour, and these take approximately two minutes to convert. The backend conversion is performed using LAME, with the command-line options “-V8 –vbr-new -q0 -B128 –lowpass 11.6 –resample 22 –ti default.jpg”, which I found works very well for voice recordings like podcasts. It results in an MP3 file of approximately 8MB for every hour which is pretty good compression! When the process is finished, the user is brought to the second step.
 
-<img class="alignnone" title="Publish Step" src="/images/screens/grace/publish.jpg" alt="Publish Step" width="400" height="293" /> 
+![Publish Step](/images/screens/grace/publish.jpg) 
 
 After the user types in the title and description (or content, in WordPress parlance), pressing the Continue button will cause the MP3 file to be uploaded, a new post created, and the two linked together in order to complete the podcast setup. All of the heavy lifting for this is done by WordPress itself; I am just sending it commands via the [Powerpress plug-in ](http://www.blubrry.com/powerpress/)which sets up an enclosure in the custom fields in order to power the podcast RSS/iTunes feeds). I am actually doing all of the XML-RPC client stuff in a PHP script which I am then calling using Cocoa – the same way I call LAME to do the audio conversion. There are some XML-RPC interfaces for Cocoa, and I did get one of them to work, but it was just a lot of code and dependencies that I didn’t want my project to have.
 

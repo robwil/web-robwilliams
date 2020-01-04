@@ -28,7 +28,7 @@ The one we are concerned with is the Kindle Serial Number. Fill that in and pres
 
 (You can get the serial number by going to Menu->Settings from your Kindle device, then going to Page 2 where it will list the serial number — starting with a “B” — under Device Information)
 
-[<img class="alignnone size-thumbnail wp-image-304" title="screen" src="http://robwilliams.me/wp-content/uploads/2012/11/screen-150x150.jpg" alt="" width="150" height="150" />](http://robwilliams.me/wp-content/uploads/2012/11/screen.jpg)
+[![screen](http://robwilliams.me/wp-content/uploads/2012/11/screen-150x150.jpg)](http://robwilliams.me/wp-content/uploads/2012/11/screen.jpg)
 
 Now you’re all set!
 

@@ -27,4 +27,4 @@ The [latest source](https://github.com/robwil/VerseMemory) is available on Githu
 
 The build as of 12/17 is available [here](http://robwilliams.me/weekly/VerseMemory.exe "VerseMemory EXE download").
 
-[<img class="alignnone size-full wp-image-246" title="VerseMemoryScreen" src="http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg" alt="" width="511" height="415" srcset="http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg 511w, http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen-300x243.jpg 300w" sizes="(max-width: 511px) 100vw, 511px" />](http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)
+[![VerseMemoryScreen](http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)](http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)

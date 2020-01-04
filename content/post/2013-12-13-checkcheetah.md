@@ -53,19 +53,19 @@ Below are some screenshots of the system in action from customer viewpoint (on a
 <div id='gallery-1' class='gallery galleryid-324 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png'><img width="100" height="150" src="http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png'><img width="100" height="150" src="http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png'><img width="100" height="150" src="http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)
     </dt>
   </dl>
   
@@ -73,13 +73,13 @@ Below are some screenshots of the system in action from customer viewpoint (on a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png'><img width="100" height="150" src="http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png'><img width="150" height="91" src="http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)
     </dt>
   </dl>
   

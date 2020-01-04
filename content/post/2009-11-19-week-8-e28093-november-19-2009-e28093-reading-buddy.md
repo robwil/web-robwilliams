@@ -18,7 +18,7 @@ I only decided to implement this program in Flex this week. The program’s GUI 
 
 It accomplishes this by looping through the days over and over again, assigning each day the average amount of hours required per day (calculated from the average amount required per week divided by 7 days in a week), unless of course that average amount is greater than the maximum for that day. In those cases, it maximizes the hours that are read that day, and then on the next iteration of the loop, doesn’t consider that day as part of the days when it divides average amount per week by the amount of days (e.g. if Monday is already at its max hours, the next iteration would do required\_hours\_per\_day = required\_hours\_per\_week / 6, as opposed to dividing by 7 in the first iteration). This continues until the hours left per week is less than 0.1, since it will never reach 0 due to floating point arithmetic, and because 0.1 hours is six minutes and I doubt that will affect things too much.
 
-<img class="alignnone" title="Reading Buddy screenshot" src="/images/screens/ReadingBuddy.jpg" alt="" width="577" height="504" /> 
+![Reading Buddy screenshot](/images/screens/ReadingBuddy.jpg) 
 
 It would probably make more sense if you read the code, which you can do by right-clicking in the program and going to View Source, as always.
 

@@ -36,6 +36,6 @@ I actually use this app every day, so I’ve made a few modifications from the o
   * Fixed a bug where saving would fail if the deck did not change
   * Ability to switch between multiple decks
 
-[<img class="alignnone size-full wp-image-256" title="Screen shot 2012-03-18 at 1.07.17 AM" src="http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png" alt="" width="510" height="400" srcset="http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png 510w, http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM-300x235.png 300w" sizes="(max-width: 510px) 100vw, 510px" />](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)
+[![Screen shot 2012-03-18 at 1.07.17 AM](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)
 
-[<img class="alignnone size-full wp-image-257" title="Screen shot 2012-03-18 at 1.07.37 AM" src="http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png" alt="" width="570" height="325" srcset="http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png 570w, http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM-300x171.png 300w" sizes="(max-width: 570px) 100vw, 570px" />](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)
+[![Screen shot 2012-03-18 at 1.07.37 AM](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)

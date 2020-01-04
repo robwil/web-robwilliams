@@ -24,7 +24,7 @@ I decided to write the program first in Flex because I had in my mind the whole 
 
 You see, Flex dispatches URL requests asynchronously, meaning that after you send a request the program keeps going. I first implemented the program by looping through all the episodes that needed to be renamed and sending a request each time — the problem is that the loop executed in a split-second while the actual request didn’t finish until a second or so later. Once the request sent out its “Complete” event and the event handler kicked in, the only one that actually got processed was the very last request, since all the rest were lost in the mix. I had to rethink how I was doing it, and solved it by getting rid of the loop altogether and doing a implicitly recursive solution. It will probably make more sense if you check out the source code.
 
-<img class="alignnone" title="Episode Renamer Screen" src="/images/screens/EpisodeRenamer.jpg" alt="" width="500" height="328" /> 
+![Episode Renamer Screen](/images/screens/EpisodeRenamer.jpg) 
 
 You can download the source code/executable [here](/weekly/Week4_Flex_EpisodeRenamer.zip "Week 4 Flex Application").
 
