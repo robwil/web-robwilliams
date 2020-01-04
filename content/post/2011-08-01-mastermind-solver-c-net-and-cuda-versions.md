@@ -22,7 +22,7 @@ I cannot stress enough how incredible programming for the GPU is. It certainly r
 
 I’m not going to post the CUDA code publicly for a while because I am considering publishing a paper about it, and I’m not sure what the rights are going to be. However, I’d be happy to talk to you via e-mail and probably send it to you privately.
 
-The C# version on the other hand, click the following links to download: the [source code](http://robwilliams.me/weekly/MastermindSource.zip "Mastermind Source Code ZIP") or [setup executable file](http://robwilliams.me/weekly/MastermindSetup.zip "Mastermind Setup Executable").
+The C# version on the other hand, click the following links to download: the [source code](/weekly/MastermindSource.zip "Mastermind Source Code ZIP") or [setup executable file](/weekly/MastermindSetup.zip "Mastermind Setup Executable").
 
 The github repository can be found [here](https://github.com/robwil/Mastermind.Net).
 

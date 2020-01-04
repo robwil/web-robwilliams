@@ -23,7 +23,7 @@ P.S. I’m pretty sure no one reads this blog, but even so I am half-expecting �
 I made the Ruby application first. I decided to make it into a Rails app. It probably defeats the purpose of saving you from going to the Internet for lyrics, but considering I don’t know how to use any of the Ruby graphical toolkits yet, I doubt a command line Ruby app would be useful to too many people. Plus, doing in in Rails let me get some AJAX practice (okay — granted, Rails did all the hard work for me). The total development time was 1:19:29. I wasted most of the time looking up how to make an AJAX form in Rails. The actual lyrics extraction and parsing was super easy thanks to the [Hpricot](http://github.com/defunkt/hpricot/tree/master) gem for Ruby, as well as the built-in regular expression support which made constructing the proper URLs very easy.
 
 You can view/use the Rails app here.  
-The source code can be downloaded [here](http://robwilliams.me/weekly/Week1_Ruby_LyricsViewer.tgz "Ruby Source Code for Week 1").
+The source code can be downloaded [here](/weekly/Week1_Ruby_LyricsViewer.tgz "Ruby Source Code for Week 1").
 
 **iPhone Results:**
 
@@ -35,7 +35,7 @@ I spent a good amount of time searching around for an alternative, thinking abou
 
 The last hour or so was spent dabbling with UIWebView to get any formatting working, as well as correcting a bunch of crashes I was having because I was overzealous with my “release” calls. What this made me realize is that I have no clue how Objective-C memory management works. It’s not as simple as C free()’s. And the fact that I just called free() simple should give an idea of how crazy Obj-C’s model is. It could be that I’m just missing something altogether, but suffice it to say that it makes me miss Java’s garbage collector A LOT. One final comment I would like to make is that I officially hate NSStrings. It treats you like an idiot, and simply removing the first character from the string is a big ordeal. From now on I think I am going to convert NSStrings to C-style strings for easier parsing, then convert them back when I need to display them.
 
-You can download the source code for the app [here](http://robwilliams.me/weekly/Week1_iPhone_LyricsViewer.zip "iPhone Source Code for Week 1").
+You can download the source code for the app [here](/weekly/Week1_iPhone_LyricsViewer.zip "iPhone Source Code for Week 1").
 
 **Flex Results:**
 
@@ -43,7 +43,7 @@ The Flex program was more painful than I imagined, but only because I have absol
 
 Once that was taken care of, the rest was simple. Flex makes it very easy to make a quick GUI and handle all the applicable events. I am in love with the MXML code that Flex uses to define its graphical interface. I would venture to say that it’s the best GUI framework ever made. It just makes so much sense to define GUI components using an XML structure.
 
-You can download the source code for the app [here](http://robwilliams.me/weekly/Week1_Flex_LyricsViewer.zip "Flex Source Code for Week 1").
+You can download the source code for the app [here](/weekly/Week1_Flex_LyricsViewer.zip "Flex Source Code for Week 1").
 
 **Conclusion:**
 

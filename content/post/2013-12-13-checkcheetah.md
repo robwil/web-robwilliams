@@ -8,7 +8,7 @@ id: 324
 title: 'CheckCheetah: A Rails Web App for Ordering and Paying at a Bar'
 url: /2013/12/checkcheetah/
 ---
-In a [previous entry](http://robwilliams.me/2013/09/update/ "Update"), I mentioned that much of my personal free time had been devoted to a closed-source programming effort for a startup I’m involved with. After we spent several months trying to sell the completed MVP and concept to prospective users, we didn’t have much luck. This idea of business and marketing and sales is new to us, so we didn’t expect to succeed right away. Even if we are never able to sell this, I think we learned several valuable lessons along the way. I’d like to share some of the technical insights learned while building the app.
+In a [previous entry](/2013/09/update/ "Update"), I mentioned that much of my personal free time had been devoted to a closed-source programming effort for a startup I’m involved with. After we spent several months trying to sell the completed MVP and concept to prospective users, we didn’t have much luck. This idea of business and marketing and sales is new to us, so we didn’t expect to succeed right away. Even if we are never able to sell this, I think we learned several valuable lessons along the way. I’d like to share some of the technical insights learned while building the app.
 
 ### App Overview
 
@@ -53,19 +53,19 @@ Below are some screenshots of the system in action from customer viewpoint (on a
 <div id='gallery-1' class='gallery galleryid-324 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)
     </dt>
   </dl>
   
@@ -73,13 +73,13 @@ Below are some screenshots of the system in action from customer viewpoint (on a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png'>![image](http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)
+      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)
     </dt>
   </dl>
   

@@ -8,7 +8,7 @@ id: 300
 title: 'Guide: Removing Kindle DRM with Python Scripts'
 url: /2012/11/guide-removing-kindle-drm-python-scripts/
 ---
-This blog is usually used to write about personal software projects that I’ve worked on, but today I take a break from that to write a quick guide about how to use some freely available Python scripts to remove Kindle DRM. I am writing this because the most popular program I have made is the [Skindle GUI](http://robwilliams.me/2010/07/skindle-gui/ "Skindle GUI"), and in providing support for many of the people who use it I have tried to stay current with the DRM removal techniques. I have always known there were a few Python scripts floating around (they’ve been around for quite a while — like since [2008](http://darkreverser.wordpress.com/2008/02/13/new-blog/)), but I never realized how high quality they were. Having tried them out earlier today, I can say they give Skindle a run for its money both in ease of use and functionality.
+This blog is usually used to write about personal software projects that I’ve worked on, but today I take a break from that to write a quick guide about how to use some freely available Python scripts to remove Kindle DRM. I am writing this because the most popular program I have made is the [Skindle GUI](/2010/07/skindle-gui/ "Skindle GUI"), and in providing support for many of the people who use it I have tried to stay current with the DRM removal techniques. I have always known there were a few Python scripts floating around (they’ve been around for quite a while — like since [2008](http://darkreverser.wordpress.com/2008/02/13/new-blog/)), but I never realized how high quality they were. Having tried them out earlier today, I can say they give Skindle a run for its money both in ease of use and functionality.
 
 All of that being said, here’s the guide. I’m assuming Windows here, but the underlying scripts are cross-platform (being written in Python, after all) and the DRM Removal Tools referenced have Mac versions included.
 
@@ -28,7 +28,7 @@ The one we are concerned with is the Kindle Serial Number. Fill that in and pres
 
 (You can get the serial number by going to Menu->Settings from your Kindle device, then going to Page 2 where it will list the serial number — starting with a “B” — under Device Information)
 
-[![screen](http://robwilliams.me/wp-content/uploads/2012/11/screen-150x150.jpg)](http://robwilliams.me/wp-content/uploads/2012/11/screen.jpg)
+[![screen](/wp-content/uploads/2012/11/screen-150x150.jpg)](/wp-content/uploads/2012/11/screen.jpg)
 
 Now you’re all set!
 

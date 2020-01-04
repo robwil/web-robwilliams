@@ -14,7 +14,7 @@ I was able to port the .NET logic almost line-for-line to Javascript with minima
 
 The data storage in the original .NET program was JSON, so it was a breeze to integrate with that in JS. I used a jQuery [plug-in](http://code.google.com/p/jquery-json/) that allows easy de-serialization and serialization of JSON text. The only question that remained in where and how and I going to persist the JSON object that represents the deck of flash cards? Lately I’ve become obsessed with WordPress, and since I was feeling lazy I just leveraged WP to do all the heavy lifting for me. I stuck the entire JSON object into the value field of some user metadata, so the basic idea is you log in to the WP site, go to my JS application, and it loads your deck straight from the SQL database powering WordPress. I don’t have to worry about security or authentication or storage — it’s all just handled for me. The server-side work took only about 10 minutes.
 
-The source code is available [here](http://robwilliams.me/weekly/JSMemory.zip).
+The source code is available [here](/weekly/JSMemory.zip).
 
 To install, just place it all in a sub-directory of your favorite WordPress installation and modify the line at the bottom of index.php to be the appropriate URL for your domain and subdirectory (this setups an auto-redirect for logging in). Then access the sub-directory you uploaded to and you will be prompted to log into WordPress (if you aren’t already); log in as any WordPress user that can edit posts (feel free to change the permission requirement in ajax.php) and start using the app.
 
@@ -36,6 +36,6 @@ I actually use this app every day, so I’ve made a few modifications from the o
   * Fixed a bug where saving would fail if the deck did not change
   * Ability to switch between multiple decks
 
-[![Screen shot 2012-03-18 at 1.07.17 AM](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)
+[![Screen shot 2012-03-18 at 1.07.17 AM](/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)](/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.17-AM.png)
 
-[![Screen shot 2012-03-18 at 1.07.37 AM](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)](http://robwilliams.me/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)
+[![Screen shot 2012-03-18 at 1.07.37 AM](/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)](/wp-content/uploads/2012/03/Screen-shot-2012-03-18-at-1.07.37-AM.png)

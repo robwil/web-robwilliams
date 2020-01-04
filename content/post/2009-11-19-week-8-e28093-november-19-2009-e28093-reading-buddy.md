@@ -6,7 +6,7 @@ date: "2009-11-19T13:06:06Z"
 guid: http://robwilliams.me/?p=91
 id: 91
 title: Week 8 – November 19, 2009 – Reading Buddy
-url: /2009/11/week-8-%e2%80%93-november-19-2009-%e2%80%93-reading-buddy/
+url: /2009/11/week-8-–-november-19-2009-–-reading-buddy/
 ---
 **Purpose:**  
 Have you ever been reading a book, knowing you wanted to finish it by a certain date, but not in the mood to do the math required to figure out how many pages you should be tackling a day? I know, it probably doesn’t come up so often where you need to read a book for a dead line, but regardless, I thought it might be nice to have a program which helps with this.

@@ -22,7 +22,7 @@ Because I am sure anyone reading this doesn’t want their conversations to be s
 
 Also included is a web frontend (written in HTML, CSS, Javascript, and PHP) for the database, which allows you to view chats by person, day, most recent, or by performing a textual search of the message bodies.
 
-Download the package [here](http://robwilliams.me/weekly/facebook_chat_logger.zip "Facebook Chat Logger").
+Download the package [here](/weekly/facebook_chat_logger.zip "Facebook Chat Logger").
 
 Installation Instructions
 

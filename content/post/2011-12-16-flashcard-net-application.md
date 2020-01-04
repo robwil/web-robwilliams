@@ -25,6 +25,6 @@ If you are trying to use the program, press the “H” key to show the Help Win
 
 The [latest source](https://github.com/robwil/VerseMemory) is available on Github.
 
-The build as of 12/17 is available [here](http://robwilliams.me/weekly/VerseMemory.exe "VerseMemory EXE download").
+The build as of 12/17 is available [here](/weekly/VerseMemory.exe "VerseMemory EXE download").
 
-[![VerseMemoryScreen](http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)](http://robwilliams.me/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)
+[![VerseMemoryScreen](/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)](/wp-content/uploads/2011/12/VerseMemoryScreen.jpg)

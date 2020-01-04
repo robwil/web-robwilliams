@@ -11,7 +11,7 @@ url: /2012/07/packing-list-web-app/
 **Problem Description**  
 When I go to the beach or Atlantic City or Florida or basically any trip, I noticed that I almost always need to pack the same things. I have been perfecting a checklist of things to pack over the past several years, and now I use it whenever I am packing to make sure I don’t forget anything useful. Right now it exists as a Google Tasks checklist. Before I start packing for a trip, I go through the checklist and make sure that everything I want to bring is unchecked, while everything I don’t need is checked (so I effectively ignore it). See the below screenshot for an example. Then, during the course of packing, I check the boxes next to each item I pack. When there are no unchecked boxes remaining, I know I’m good to go for the trip.
 
-[![packing_list](http://robwilliams.me/wp-content/uploads/2012/07/packing_list-69x300.jpg)](http://robwilliams.me/wp-content/uploads/2012/07/packing_list.jpg)
+[![packing_list](/wp-content/uploads/2012/07/packing_list-69x300.jpg)](/wp-content/uploads/2012/07/packing_list.jpg)
 
 The problem with this method is that on the way back from the trip I don’t know which items I packed and which ones I decided to not pack (because everything will be checked at the end, but some of those were never unchecked to begin with). Therefore, I am never sure if I remembered to re-pack everything on the way home.
 
@@ -25,7 +25,7 @@ There was an extra level that I wanted. The whole purpose of this solution is to
 
 This design led to the following DB schema (diagram made using [MySQL Workbench](http://www.mysql.com/products/workbench/ "MySQL Workbench")):
 
-[![final_schema](http://robwilliams.me/wp-content/uploads/2012/07/final_schema-300x140.jpg)](http://robwilliams.me/wp-content/uploads/2012/07/final_schema.jpg)
+[![final_schema](/wp-content/uploads/2012/07/final_schema-300x140.jpg)](/wp-content/uploads/2012/07/final_schema.jpg)
 
 This design led to the following implementation requirements:
 
@@ -53,4 +53,4 @@ You can check out a video of the final product being used below (video captured 
 
 
 
-You can download the source code by clicking [here](http://robwilliams.me/weekly/pack.zip "Pack Source Code ZIP File").
+You can download the source code by clicking [here](/weekly/pack.zip "Pack Source Code ZIP File").

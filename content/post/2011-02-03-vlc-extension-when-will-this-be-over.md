@@ -14,7 +14,7 @@ So, I decided to make a VLC Extension using the Lua scripting interface. It perf
 
 To make a long story short, once I got that taken care of, coding took about 30 minutes. This just goes to show how much of a negative effect poor documentation can have on a developer’s life.
 
-You can download the script by clicking [here](http://robwilliams.me/weekly/when_will_this_be_over.lua "When will this be over? Lua Script"). Then you need to place it in one of the following folders, depending on your platform:
+You can download the script by clicking [here](/weekly/when_will_this_be_over.lua "When will this be over? Lua Script"). Then you need to place it in one of the following folders, depending on your platform:
 
 <div id="_mcePaste">
   <ul>

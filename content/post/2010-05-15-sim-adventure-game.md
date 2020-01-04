@@ -14,8 +14,8 @@ Anyway, the game I created is called “Sim Adventure Game” (original, I know)
 
 Overall, the goal of the game is to fill or empty all of your mood bars (whether to fill or empty each one should be common sense). The mood bars are affected by the various interactive objects around the 3D house interior. It is up to the user to determine which moods are affected by which objects and how fast the bars fill/empty. The game keeps a timer of how long you take to complete everything, and if you win it tells you how long it took. The objective of the game then is to finish everything in the shortest amount of time possible – I managed to do it in 82 seconds although I suspect there are faster ways.
 
-![Intro Screen](http://robwilliams.me/images/screens/sim_1.jpg) 
+![Intro Screen](/images/screens/sim_1.jpg) 
 
-![Gameplay screenshot](http://robwilliams.me/images/screens/sim_2.jpg) 
+![Gameplay screenshot](/images/screens/sim_2.jpg) 
 
-Click [here](http://robwilliams.me/code/Final_Prototype.zip "Sim Adventure Game Source Code") to download Source Code (includes report I had to write for the class which describes much of the technical details, as well as gives references for all the 3D models and textures)
+Click [here](/code/Final_Prototype.zip "Sim Adventure Game Source Code") to download Source Code (includes report I had to write for the class which describes much of the technical details, as well as gives references for all the 3D models and textures)
