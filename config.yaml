@@ -7,3 +7,9 @@ params:
   author: Rob Williams
   description: personal blog of tech projects
   email: contact@robwilliams.me
+  disableAttribution: true
+  social:
+    - icon: github-circle
+      url: https://github.com/robwil/
+    - icon: linkedin
+      url: https://www.linkedin.com/pub/robert-williams/19/127/113
