@@ -17,6 +17,6 @@ I decided to solve both of these problems by porting the app over to Android. In
 If you are interested, the full source code is available [here](/upload/android-pack-app.apk).
 
 
-![image](/wp-content/uploads/2015/07/device-2015-07-05-2036541.png)
-![image](/wp-content/uploads/2015/07/device-2015-07-05-203734.png)
-![image](/wp-content/uploads/2015/07/device-2015-07-05-203818.png)
+[![image](/wp-content/uploads/2015/07/device-2015-07-05-2036541-sm.png)](/wp-content/uploads/2015/07/device-2015-07-05-2036541.png)
+[![image](/wp-content/uploads/2015/07/device-2015-07-05-203734-sm.png)](/wp-content/uploads/2015/07/device-2015-07-05-203734.png)
+[![image](/wp-content/uploads/2015/07/device-2015-07-05-203818-sm.png)](/wp-content/uploads/2015/07/device-2015-07-05-203818.png)
