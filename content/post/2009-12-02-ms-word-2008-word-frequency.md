@@ -34,11 +34,11 @@ Note: This requires that you have Microsoft Word for Mac running, with a documen
 
 **Visual Studio Results:**  
 I was very impressed by the MSDN documentation for the Visual Studio Office Add-In development process. I literally have no experience doing this, but I was able to pick it up in no time at all. Designing the Ribbon interface is so easy that a third grader could do it, and the actual coding was rather straight-forward once I figured out how to get the whole document into a string. The algorithm and method is exactly the same as the Perl one; I use heavy regular expressions and hash tables as the data structures. The regular expressions were actually easier since the smart quotes actually came in as their normal unicode characters and not the strange things I mentioned with the Applescript solution. So all I had to do was something like this:  
-`<br />
-// convert all smart quotes to straight quotes<br />
-document = Regex.Replace(document, @"[“”]", "\"");<br />
-document = Regex.Replace(document, @"[‘’]", "'");<br />
-`  
+```
+// convert all smart quotes to straight quotes
+document = Regex.Replace(document, @"[“”]", "\"");
+document = Regex.Replace(document, @"[‘’]", "'");
+``` 
 There wasn’t much beyond the porting other than choosing to Publish it and running the setup.exe. Since the code is nearly identical (just in C# instead of Perl), I didn’t bother exporting the source code. Instead I have just included the binary setup.exe file for your downloading. If you really want the source, e-mail me.
 
 Download the setup executable file [here](/weekly/WordFrequencyWindows.zip "Word Frequency Word Add-In for Word 2007 Windows").

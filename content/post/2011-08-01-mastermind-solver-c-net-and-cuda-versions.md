@@ -26,6 +26,6 @@ The C# version on the other hand, click the following links to download: the [so
 
 The github repository can be found [here](https://github.com/robwil/Mastermind.Net).
 
-![Mastermind.NET](http://www.robwilliams.me/images/screens/mastermind.jpg) 
+![Mastermind.NET](/images/screens/mastermind.jpg) 
 
 (P.S. This game was played by the computer, not me. My strategy is quite different. I’d be happy to talk about it via e-mail.)

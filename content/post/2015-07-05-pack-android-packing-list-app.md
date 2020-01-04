@@ -16,38 +16,7 @@ I decided to solve both of these problems by porting the app over to Android. In
 
 If you are interested, the full source code is available [here](/upload/android-pack-app.apk).
 
-&nbsp;
 
-<div id='gallery-2' class='gallery galleryid-347 gallery-columns-3 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203654-2/'>![image](/wp-content/uploads/2015/07/device-2015-07-05-2036541.png)
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-2-350'>
-      Editing a List
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203734/'>![image](/wp-content/uploads/2015/07/device-2015-07-05-203734.png)
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-2-351'>
-      Editing a List Set
-    </dd>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/2015/07/pack-android-packing-list-app/device-2015-07-05-203818/'>![image](/wp-content/uploads/2015/07/device-2015-07-05-203818.png)
-    </dt>
-    
-    <dd class='wp-caption-text gallery-caption' id='gallery-2-349'>
-      Managing a Trip
-    </dd>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+![image](/wp-content/uploads/2015/07/device-2015-07-05-2036541.png)
+![image](/wp-content/uploads/2015/07/device-2015-07-05-203734.png)
+![image](/wp-content/uploads/2015/07/device-2015-07-05-203818.png)

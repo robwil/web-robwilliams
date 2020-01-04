@@ -50,38 +50,12 @@ You can check out a working version on our staging server [here](https://limitle
 
 Below are some screenshots of the system in action from customer viewpoint (on a phone) and business viewpoint (on desktop).
 
-<div id='gallery-1' class='gallery galleryid-324 gallery-columns-3 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://robwilliams.me/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png'>![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)
-    </dt>
-  </dl>
-  
-  <br style='clear: both' />
-</div>
+[![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.03.png)
+
+[![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.15.png)
+
+[![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.01.34.png)
+
+[![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.02.07.png)
+
+[![image](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)](/wp-content/uploads/2013/12/Screen-Shot-2014-02-01-at-15.36.57.png)

@@ -19,12 +19,13 @@ The source code is available [here](/weekly/JSMemory.zip).
 To install, just place it all in a sub-directory of your favorite WordPress installation and modify the line at the bottom of index.php to be the appropriate URL for your domain and subdirectory (this setups an auto-redirect for logging in). Then access the sub-directory you uploaded to and you will be prompted to log into WordPress (if you aren’t already); log in as any WordPress user that can edit posts (feel free to change the permission requirement in ajax.php) and start using the app.
 
 I’m not sure what the behavior is when you start with a fresh database, as I manually imported the one I was using with my old .NET application. You’ll likely get some horrible error, but the solution is to simply create a blank database in your user metadata table. The schema is as follows:  
-`<br />
-meta_key = memoryDecks<br />
-meta_value = {"1": "name of your first deck", "2": "name of your second deck", ..., "active": "1"}<br />
-meta_key = memoryDeck1<br />
-meta_value = {"finishedSlides":[], "notMemorizedSlides":[], "remainingSlides":[]}<br />
-...`
+```
+meta_key = memoryDecks
+meta_value = {"1": "name of your first deck", "2": "name of your second deck", ..., "active": "1"}
+meta_key = memoryDeck1
+meta_value = {"finishedSlides":[], "notMemorizedSlides":[], "remainingSlides":[]}
+...
+```
 
 So, create a ‘memoryDecks’ entry with a sequential list of your decks and their names. Set “active” equal to the number of the deck you want selected by default. Then create a ‘memoryDeck#’ entry with a blank deck — with three empty arrays for each category of slides. From here, the app’s UI should work without an issue and you won’t need to revisit the database again.
 
