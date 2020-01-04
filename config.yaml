@@ -1,0 +1,9 @@
+baseURL: http://robwilliams.me
+disablePathToLower: true
+languageCode: en-us
+title: Rob Williams
+theme: bare
+params:
+  author: Rob Williams
+  description: personal blog of tech projects
+  email: contact@robwilliams.me
