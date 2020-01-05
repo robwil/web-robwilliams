@@ -13,3 +13,5 @@ params:
       url: https://github.com/robwil/
     - icon: linkedin
       url: https://www.linkedin.com/pub/robert-williams/19/127/113
+    - icon: file-pdf
+      url: https://robwilliams.me/resume/resume.pdf
