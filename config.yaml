@@ -2,16 +2,29 @@ baseURL: https://robwilliams.me
 disablePathToLower: true
 languageCode: en-us
 title: Rob Williams
-theme: bare
+theme: hello-friend-ng
+author:
+  name: Rob Williams
+disableRSS: false
 params:
-  author: Rob Williams
-  description: personal blog of tech projects
-  email: contact@robwilliams.me
-  disableAttribution: true
+  homeSubtitle: personal blog of tech projects
+  logo:
+    logoText: robwilliams.me
+    logoHomeLink: /
+    logoCursorColor: "#afff94"
   social:
-    - icon: github-circle
+    - name: github
       url: https://github.com/robwil/
-    - icon: linkedin
+    - name: linkedin
       url: https://www.linkedin.com/pub/robert-williams/19/127/113
-    - icon: file-pdf
+    - name: email
+      url: "mailto:contact@robwilliams.me"
+    
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: post/
+    - identifier: resume
+      name: Resume
       url: https://robwilliams.me/resume/resume.pdf
