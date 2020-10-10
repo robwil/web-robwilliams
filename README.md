@@ -1,8 +1,12 @@
 # robwilliams.me website
 
-powered by Hugo static website generator
+* powered by [Hugo](https://gohugo.io/) static website generator
+* deployed with [Firebase](https://firebase.google.com/), for free static file serving
 
-deployed with Firebase
+## Creating new post
+```
+$ hugo new content/post/YYYY-MM-DD-post-slug.md
+```
 
 ## Deploying
 ```
